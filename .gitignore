@@ -1,0 +1,41 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.bin
+a.out
+
+# Libraries
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debugging and build artifacts
+*.dSYM/
+*.pdb
+*.ilk
+*.idb
+
+# Dependency directories (e.g., from package managers or build systems)
+deps/
+build/
+bin/
+obj/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Log files
+*.log
+
+# Project-specific temporary files
+temp/
+tmp/
