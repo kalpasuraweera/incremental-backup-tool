@@ -21,3 +21,6 @@ To compile the project, run:
 
 ```bash
 make
+
+### **Dependencies**
+- https://github.com/clibs/sha1
